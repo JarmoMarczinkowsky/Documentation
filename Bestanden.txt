@@ -11,8 +11,8 @@ Normaliseren
 Functioneel ontwerp
 //Technisch ontwerp
 
-Acceptatietest
-Technische test
++ Acceptatietest
++ Technische test
 
 // = onbekend
 + = belangrijk
