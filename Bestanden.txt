@@ -7,7 +7,7 @@ Wireframes
 Planning
 Activiteitendiagram
 Functioneel ontwerp
-Technisch ontwerp
+//Technisch ontwerp
 
 Acceptatietest
 Technische test
