@@ -2,12 +2,17 @@ Interview (verslag)
 Brainstorm en onderzoek
 Userstories
 Sprintplanning
-Flowchart
++ Flowchart
 Wireframes
 Planning
-Activiteitendiagram
++ Activiteitendiagram
+Normaliseren
++ ERD
 Functioneel ontwerp
 //Technisch ontwerp
 
 Acceptatietest
 Technische test
+
+// = onbekend
++ = belangrijk
