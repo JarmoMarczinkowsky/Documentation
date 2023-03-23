@@ -1,0 +1,12 @@
+Interview (verslag)
+Brainstorm en onderzoek
+Userstories
+Sprintplanning
+Flowchart
+Wireframes
+Planning
+Activiteitendiagram
+Functioneel ontwerp
+
+Acceptatietest
+Technische test
