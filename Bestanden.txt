@@ -10,6 +10,7 @@ Normaliseren
 + ERD
 Functioneel ontwerp
 //Technisch ontwerp
+Definition of Done
 
 + Acceptatietest
 + Technische test
