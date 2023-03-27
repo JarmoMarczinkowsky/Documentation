@@ -1,0 +1,12 @@
+Wireframes
+Acceptatiecriteria
+- Usecase met testen
+
+Planning maken
+Functioneel ontwerp
+- structuur
+UseCaseDiagram
+Klassendiagram
+Activiteitendiagram
+
+Visual Paradigm
